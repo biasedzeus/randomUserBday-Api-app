@@ -1,3 +1,43 @@
+# User Birthday Component
+
+
+## An app comprised of list of conttacts fetched with randomuser API.
+
+### Components
+
+-Contact 
+ -Name
+ -Contact Image
+ -Age 
+
+ -Contact List
+  -contains list of predefined value
+  
+  
+  ## Libraries Used :
+  
+  - Axios : To handle requests
+  - randomUserApi : To generate data
+  
+  
+  
+  ![image](https://user-images.githubusercontent.com/59247235/136395978-5f14dcdc-29d7-4c49-a61b-a2e39d981e2e.png)
+
+
+### After Using Fetch More Results
+
+
+![image](https://user-images.githubusercontent.com/59247235/136396177-bff8bd78-526b-4119-92cb-0909624b19f6.png)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
